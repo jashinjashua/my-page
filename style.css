@@ -1,0 +1,31 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Cinzel', serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3em;
+    margin-bottom: 0.2em;
+    text-shadow: 2px 2px 4px #333;
+  }
+  
+  p {
+    font-size: 1.2em;
+    color: #ccc;
+    margin-bottom: 1em;
+  }
+  
+  img {
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.2);
+  }
+  
