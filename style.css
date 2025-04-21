@@ -22,6 +22,12 @@ body {
     color: #ccc;
     margin-bottom: 1em;
   }
+ 
+  h3 {
+    font-size: 1em;
+    color: #ccc;
+    margin-bottom: 1em;
+  }
   
   img {
     width: 300px;
